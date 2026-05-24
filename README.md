@@ -10,12 +10,6 @@
 
 This project is a basic static website built using **HTML,CSS** and **CSS** . It demonstrates the structure of a simple webpage, styled using an external CSS file.
 
-## 📁 Project Structure
-project-folder/
-│
-├── index.html 
-└── style.css 
-
 ## 🔗 How to Link CSS with HTML
 In the `<head>` section of `index.html`, the CSS file is linked like this:
 
